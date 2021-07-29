@@ -1,5 +1,5 @@
 const Keyv = require('keyv')
-const MONGOPATH = 'mongodb://xsadme:lmfao888@cluster0-shard-00-00.upphd.mongodb.net:27017,cluster0-shard-00-01.upphd.mongodb.net:27017,cluster0-shard-00-02.upphd.mongodb.net:27017/MyFirstDatabase?ssl=true&replicaSet=atlas-9eozlm-shard-0&authSource=admin&retryWrites=true&w=majority'
+const MONGOPATH = 'mongoURI'
 
 const sleep = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
 
