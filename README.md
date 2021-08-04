@@ -9,13 +9,12 @@ Made by `confusion#8059`
 - [Usage](#usage)
 - [Features](#features)
 - [Requirements to contribute](#requirements-to-contribute)
-- [Contact me](#contact-me)
 - [Links](#links)
 - [Licensing Information](#licensing-information)
 
 ## Usage
 If you anyhow want to _copy_ my code, feel free to. Be sure to read the [license](#licensing-information) though.<br>
-You can find me at the [support server](https://discord.gg/e4fxq8vCfM) for Stop Sign, or just shoot me a DM.<br>
+You can find me at the [support server](https://discord.gg/e4fxq8vCfM) for Stop Sign.<br>
 
 ## Features
 ```css
